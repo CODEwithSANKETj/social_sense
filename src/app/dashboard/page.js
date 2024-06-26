@@ -3,7 +3,7 @@ import React from 'react'
 import { CardWithForm } from '../component/Card'
 import Chart from '../component/Chart'
 import LoopChart from '../component/LoopChart'
-import PieChart from '../component/Piechart'
+import PieChart from '../component/PieChart'
 
 
 function dashboard() {
